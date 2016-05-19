@@ -94,7 +94,7 @@ if (!isset($_POST['submit'])){
 <!-- The HTML login form -->
   <form action="<?=$_SERVER['PHP_SELF']?>" method="post">
     Username: <input type="text" class="form-control" name="username" /><br/><br/>
-    Password: <input type="password" class="form-control" name="password" /><br />
+    Password: <input type="password" class="form-control" name="password" /><br /><br/>
  
     <input type="submit" name="submit" class="myButton"  value="Login" />
   </form>
