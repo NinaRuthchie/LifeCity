@@ -212,7 +212,7 @@ if (mysqli_num_rows($result) > 0) {
         echo "<h1>Name: " . $row["fname"]. " " . $row["lname"]. "</h1><br>";
     }
 } else {
-    echo "0 results";
+    echo "";
 }
 
 mysqli_close($conn);
