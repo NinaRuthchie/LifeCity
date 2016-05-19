@@ -166,6 +166,7 @@ th, td {
   <li><a href="#news">News</a></li>
   <li><a href="#help">Help</a></li>
   <li><a href="#about">About</a></li>
+  <li><a href="#about">About</a></li>
   <li><a href="login.php">Logout</a></li>
 
 </ul>
